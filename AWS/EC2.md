@@ -138,7 +138,7 @@ Every EC2 instance should be protected using two security layers.
 >
 > Always use IAM Roles.
 
-
+---
 ## 🏢 Real Production Scenario
 
 Imagine you're supporting an e-commerce application during Black Friday.
@@ -157,7 +157,7 @@ Users continue shopping without experiencing downtime.
 
 This is why production systems should never rely on a single EC2 instance.
 
-
+---
 
 ## 🤖 AI Enhancement — AI Infrastructure Advisor
 
@@ -183,6 +183,8 @@ Example AI Recommendation
 
 Estimated Monthly Savings: **18%**
 
+---
+
 ## ✅ Production Best Practices
 
 - Use IAM Roles instead of Access Keys
@@ -192,7 +194,8 @@ Estimated Monthly Savings: **18%**
 - Enable regular backups using EBS Snapshots
 - Use Launch Templates with Auto Scaling Groups
 - Store application secrets in AWS Secrets Manager
-
+- 
+---
 
 ## ❌ Common Interview Mistakes
 
@@ -220,6 +223,7 @@ Always use IAM Roles.
 
 Launching production servers inside public subnets.
 
+---
 
 ## 🎙️ What the Interviewer is Really Testing
 
@@ -235,6 +239,7 @@ Although the question appears to be about EC2, the interviewer is actually evalu
 
 A senior engineer naturally discusses these topics without waiting to be asked.
 
+---
 
 ## 💬 Follow-up Questions
 
