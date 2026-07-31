@@ -1,5 +1,3 @@
----
-
 # Question 1
 
 ## 🌐 What is an Amazon VPC? How does it work internally?
